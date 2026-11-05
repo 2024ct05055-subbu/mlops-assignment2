@@ -1,0 +1,4 @@
+Prompt Version,Avg Latency,Avg Input Tokens,Avg Output Tokens,Avg Cost (USD),Valid JSON Rate,Recommended
+Prompt_v1_Basic,0.10s,17.0,134.0,$0.0000415,N/A,No
+Prompt_v2_Structured,0.10s,47.0,222.0,$0.0000701,N/A,No
+Prompt_v3_JSON_Output,0.10s,87.0,119.0,$0.0000422,100.0%,Yes (Best structured choice for automation)
